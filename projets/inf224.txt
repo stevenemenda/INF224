@@ -1,0 +1,3 @@
+Media name: StarWars.mp4
+The path of StarWars.mp4 is: /cal/homes/lguo/Downloads/INF224/projets/
+The duration of StarWars.mp4 is: 0

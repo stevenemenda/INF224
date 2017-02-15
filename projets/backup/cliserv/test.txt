@@ -1,0 +1,25 @@
+tFile[0] = "Pont.jpeg";
+tFile[1] = "StarWars.mp4";
+tFile[2] = "LostTale.mp4";
+tFile[3] = "Flower.jpeg";
+tFile[4] = "Emoji.mp4";
+tFile[5] = "SpiderMan.mp4";
+tFile[6] = "Lac.jpeg";
+Film:
+createFilm;StarWars.mp4;/cal/homes/lguo/Downloads/INF224/projets/;100;20,30,50
+createFilm;LostTale.mp4;/cal/homes/lguo/Downloads/INF224/projets/;100;30,30,40
+createFilm;SpiderMan.mp4;/cal/homes/lguo/Downloads/INF224/projets/;110;40,30,40
+createFilm;Emoji.mp4;/cal/homes/lguo/Downloads/INF224/projets/;120;40,30,50
+
+Video:
+createVideo;StarWars.mp4;/cal/homes/lguo/Downloads/INF224/projets/;100
+createVideo;LostTale.mp4;/cal/homes/lguo/Downloads/INF224/projets/;100
+createVideo;SpiderMan.mp4;/cal/homes/lguo/Downloads/INF224/projets/;110
+createVideo;Emoji.mp4;/cal/homes/lguo/Downloads/INF224/projets/;120
+
+
+Photo:
+creatPhoto;StarWars.mp4;/cal/homes/lguo/Downloads/INF224/projets/;100
+creatPhoto;LostTale.mp4;/cal/homes/lguo/Downloads/INF224/projets/;100
+creatPhoto;SpiderMan.mp4;/cal/homes/lguo/Downloads/INF224/projets/;110
+creatPhoto;Emoji.mp4;/cal/homes/lguo/Downloads/INF224/projets/;120

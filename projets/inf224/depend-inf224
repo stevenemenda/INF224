@@ -1,0 +1,9 @@
+Inf_multimedia.o: Inf_multimedia.cpp Inf_multimedia.h
+inf_photo.o: inf_photo.cpp inf_photo.h Inf_multimedia.h
+video.o: video.cpp video.h Inf_multimedia.h
+film.o: film.cpp film.h video.h Inf_multimedia.h inf_photo.h \
+ CommeResource.h
+managemedia.o: managemedia.cpp managemedia.h Inf_multimedia.h film.h \
+ video.h inf_photo.h CommeResource.h mediagroup.h
+main.o: main.cpp Inf_multimedia.h inf_photo.h video.h film.h \
+ CommeResource.h mediagroup.h managemedia.h
